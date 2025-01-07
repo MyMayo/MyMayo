@@ -40,10 +40,6 @@ Facebook
 ![5296765_camera_instagram_instagram logo_icon](https://github.com/user-attachments/assets/9e39f3cd-7a3d-4a2c-83af-ef5ac5672d96)
 
 
-### <ins>Most common languages and tools:</ins>
-![1_uw2XzJO65Li-qGEqoYzdmw](https://github.com/user-attachments/assets/c21c5f8d-f7a1-41b7-b39c-c2db188f8b5a)
-
-
 
 <!--
 **MyMayo/MyMayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
